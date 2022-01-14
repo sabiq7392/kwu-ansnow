@@ -1,2 +1,2 @@
-# kwu-ansnow
-college task 'Kewirausahaan'. Ansnow - Your Guarantee Solution
+# Ansnow - Your Guarantee Solution
+college task 'Kewirausahaan'. 
