@@ -23,7 +23,7 @@ function App() {
         </div>
       </main>
       <footer className="mt-5 p-3 shadow-sm" style={{ backgroundColor: "#97DFF4" }}>
-        <small><b>Ansnow Founder</b>: Assaufie, Azhar, Julkarnain, Rayyan Azka</small>
+        <small><b>Ansnow Founder</b>: Assaufie, Azhar, Julkarnain, Rayyan Azka, Sabiq Muhammad</small>
       </footer>
     </div>
   );
