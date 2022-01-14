@@ -1,2 +1,2 @@
 # Ansnow - Your Guarantee Solution
-college task 'Kewirausahaan'. 
+college task Kewirausahaan 
