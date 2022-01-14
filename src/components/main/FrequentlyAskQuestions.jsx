@@ -2,7 +2,7 @@ import AccordionItem from "./partials/_AccordionItem";
 
 export default function FrequentlyAskQuestions() {
   return (
-    <section className="d-grid gap-2">
+    <section id="frequently-ask-questions" className="d-grid gap-2">
       <h2 className="text-center fw-bold">Frequently Ask Questions</h2>
       <div className="accordion" id="accordionExample">
         <AccordionItem 

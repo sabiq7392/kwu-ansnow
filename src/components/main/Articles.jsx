@@ -2,7 +2,7 @@ import ArticlesItem from "./partials/_ArticlesItem";
 
 export default function Articles() {
   return (
-    <section className="d-grid gap-3">
+    <section id="articles" className="d-grid gap-3">
       <h2 className="text-center fw-bold">Articles</h2>
       <ArticlesItem
         imgFirst="https://s2.bukalapak.com/img/788102768/large/trima_komputer_rusak_dan_laptop_rusak.jpg"

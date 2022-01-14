@@ -26,7 +26,7 @@ export default function Appbar() {
               <a className="nav-link" href="#articles">Articles</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#frequently-ask-question">Frequently Ask Question</a>
+              <a className="nav-link" href="#frequently-ask-questions">Frequently Ask Question</a>
             </li>
           </ul>
         </div>
