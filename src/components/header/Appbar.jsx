@@ -13,7 +13,7 @@ export default function Appbar() {
   return (
     <nav className={classes.appBar}>
       <div className="container">
-        <a className="navbar-brand" href="#home">Navbar</a>
+        <a className="navbar-brand" href="#home">Ansnow</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon" />
         </button>
