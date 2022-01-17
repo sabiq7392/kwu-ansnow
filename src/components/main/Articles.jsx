@@ -1,15 +1,18 @@
 import ArticlesItem from "./partials/_ArticlesItem";
+import ansnowDua from '../../images/articles/4-01.png';
+import ansnowSatu from '../../images/articles/5-01.png';
+import ansnowTiga from '../../images/articles/6-01.png';
 
 export default function Articles() {
   return (
     <section id="articles" className="d-grid gap-3">
       <h2 className="text-center fw-bold">Articles</h2>
       <ArticlesItem
-        imgFirst="https://s2.bukalapak.com/img/788102768/large/trima_komputer_rusak_dan_laptop_rusak.jpg"
+        imgFirst={ansnowSatu}
         altFirst="komputer rusak"
-        imgSecond="https://assets.jalantikus.com/assets/cache/500/375/userfiles/2016/01/13/komputer-jelek-maintenance-2.jpeg"
+        imgSecond={ansnowDua}
         altSecond="komputer rusak"
-        imgThird="https://info-menarik.net/wp-content/uploads/2019/07/Mengetahui-4-Penyebab-Komputer-Cepat-Rusak-dan-Cara-Mencegahnya.jpg"
+        imgThird={ansnowTiga}
         altThird="komputer rusak"
         title="Card title"
         paragraph="Some quick example text to build on the card title and make up the bulk of the card's content."
